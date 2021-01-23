@@ -1,0 +1,52 @@
+/* Custom Fonts */
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;700&display=swap');
+
+
+/* Basic Styles */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    width: 100%;
+    min-height: 100vh;
+    font-family: 'Open Sans', sans-serif;
+    background: #fff;
+    line-height: 1.5;
+}
+
+/* Custom Styles Below */
+
+
+
+
+
+/* Media Queries */
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) {
+    /* Place your code below, else leave blank */
+
+ }
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) {
+    /* Place your code below, else leave blank */
+    
+ }
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) {
+    /* Place your code below, else leave blank */
+    
+ }
+
+/* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {
+    /* Place your code below, else leave blank */
+    
+ }
